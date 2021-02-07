@@ -1,9 +1,10 @@
 {
   "name": "SegmentedProgressView",
   "version": "0.1.0",
-  "summary": "A short description of SegmentedProgressView.",
+  "summary": "Simple Instagram-like segmented progress view with completion handler and different time interval for each segment",
   "description": "TODO: Add long description of the pod here.",
   "homepage": "https://github.com/isapozhnik/SegmentedProgressView",
+  "screenshots": "https://github.com/iSapozhnik/SegmentedProgressView/blob/master/Resources/img.png",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
